@@ -5,8 +5,6 @@ The architectures used are different than those in the orignal work. Specificall
 
 The code performs the experiment on synthetic data as described in the paper.
 
-You are encouraged to raise any doubts regarding the working of the code as Issues.
-
 To run the code:
 ```bash 
 python main.py
